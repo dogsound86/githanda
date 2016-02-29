@@ -42,7 +42,7 @@ import java.lang.annotation.RetentionPolicy;
  *                  -리플렉션을 이용해서 런타임시에 어노테이션 정보를 얻을 수 있음.
  *       -Java Reflect란?
  *          -리플렉션(Reflection): 런타임에 클래스의 메타 정보를 얻는 기능.
- *
+ *  ㅁㄴㅇㄻㄴㅇ
  *
  *
  */
