@@ -6,15 +6,15 @@ package com.sist;
 public class MethodUseAnnotation {
 
     @PrintAnnotation
-    public void metthodName1(){
+    public void methodName1(){
         System.out.println("어노테이션 적용 메서드1 내용");
     }
     @PrintAnnotation("*")
-    public void metthodName2(){
+    public void methodName2(){
         System.out.println("어노테이션 적용 메서드2 내용");
     }
-    @PrintAnnotation(value="$,number=100")
-    public void metthodName3(){
+    @PrintAnnotation(value="$",number=100)
+    public void methodName3(){
         System.out.println("어노테이션 적용 메서드3 내용");
     }
 
